@@ -28,10 +28,10 @@
         Hi there! I'm a Master's Student at National Quemoy University in Taiwan, originally from Indonesia. I'm deeply passionate about bridging the gap between Artificial Intelligence and elegant Web Applications.
       </p>
       <ul>
-        <li>🧬 <b>Current Focus:</b> Building <strong>Hepato-AI</strong>, a multi-model medical search system using RAG.</li>
-        <li>💻 <b>Experience:</b> Developed full-stack platforms like <strong>NQU Job Fair</strong> and logistics systems like <strong>ReLoop</strong>.</li>
+        <li>🎵 <b>Current Projects:</b> <strong>Adagio</strong>, <strong>Kinyan</strong>, and <strong>JobFair</strong> — spanning music, web platforms, and career tech.</li>
         <li>🌱 <b>Learning:</b> Advanced LLM orchestration, scalable Next.js architectures, and vector databases.</li>
         <li>💬 <b>Ask me about:</b> Next.js, RAG implementation, and UI/UX design.</li>
+        <li>🌏 <b>Background:</b> Indonesian student at National Quemoy University, Taiwan.</li>
       </ul>
     </td>
     <td width="45%" valign="top" style="border: none;">
@@ -56,6 +56,16 @@
     </td>
   </tr>
 </table>
+
+<br />
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Steventanardi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
+</div>
 
 <br />
 
