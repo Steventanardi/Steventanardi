@@ -3,15 +3,19 @@
 </div>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Master's+Student+%40+NQU+Taiwan;Building+AI-Powered+Web+Apps;RAG+%26+LLM+Orchestration+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/steventanardi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:stevntbankk77@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/steventanardi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=steventanardi&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <br />
@@ -42,6 +46,10 @@
         </a>
         <br><br>
         <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" alt="Databases" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git&perline=4" alt="Tools" />
         </a>
       </div>
@@ -51,24 +59,59 @@
 
 <br />
 
+---
+
+<h3 align="center">🏗️ Featured Projects</h3>
+
 <div align="center">
-  <h3>📊 GitHub Activity</h3>
+  <a href="https://github.com/steventanardi/hepato-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=hepato-ai&theme=tokyonight&hide_border=true" alt="Hepato-AI" />
+  </a>
+  <a href="https://github.com/steventanardi/nqu-job-fair">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=nqu-job-fair&theme=tokyonight&hide_border=true" alt="NQU Job Fair" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/steventanardi/reloop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=reloop&theme=tokyonight&hide_border=true" alt="ReLoop" />
+  </a>
+</div>
+
+<br />
+
+---
+
+<h3 align="center">📊 GitHub Activity</h3>
+
+<div align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=steventanardi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=steventanardi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventanardi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+</div>
+
 <br />
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steventanardi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+</div>
+
+<br />
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg">
   </picture>
-  <br/>
-  <em>*(A GitHub Action automatically updates this snake every day, eating your contribution graphs!)*</em>
 </div>
 
 <br />
