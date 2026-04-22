@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Master's+Student+%40+NQU+Taiwan;Building+AI-Powered+Web+Apps;RAG+%26+LLM+Orchestration+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Master's+Student+%40+NQU+Taiwan;RAG+%26+LLM+Orchestration+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -64,16 +64,16 @@
 <h3 align="center">🏗️ Featured Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/steventanardi/hepato-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=hepato-ai&theme=tokyonight&hide_border=true" alt="Hepato-AI" />
+  <a href="https://github.com/Steventanardi/Adagio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steventanardi&repo=Adagio&theme=tokyonight&hide_border=true" alt="Adagio" />
   </a>
-  <a href="https://github.com/steventanardi/nqu-job-fair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=nqu-job-fair&theme=tokyonight&hide_border=true" alt="NQU Job Fair" />
+  <a href="https://github.com/Steventanardi/Kinyan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steventanardi&repo=Kinyan&theme=tokyonight&hide_border=true" alt="Kinyan" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/steventanardi/reloop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=reloop&theme=tokyonight&hide_border=true" alt="ReLoop" />
+  <a href="https://github.com/Steventanardi/JobFair">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steventanardi&repo=JobFair&theme=tokyonight&hide_border=true" alt="JobFair" />
   </a>
 </div>
 
