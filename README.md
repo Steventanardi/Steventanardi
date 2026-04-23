@@ -64,7 +64,7 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Steventanardi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=steventanardi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -75,15 +75,15 @@
 
 <div align="center">
   <a href="https://github.com/Steventanardi/Adagio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steventanardi&repo=Adagio&theme=tokyonight&hide_border=true" alt="Adagio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=Adagio&theme=tokyonight&hide_border=true" alt="Adagio" />
   </a>
   <a href="https://github.com/Steventanardi/Kinyan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steventanardi&repo=Kinyan&theme=tokyonight&hide_border=true" alt="Kinyan" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=Kinyan&theme=tokyonight&hide_border=true" alt="Kinyan" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Steventanardi/JobFair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steventanardi&repo=JobFair&theme=tokyonight&hide_border=true" alt="JobFair" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=JobFair&theme=tokyonight&hide_border=true" alt="JobFair" />
   </a>
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=steventanardi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=steventanardi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=steventanardi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
