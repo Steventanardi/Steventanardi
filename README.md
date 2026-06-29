@@ -2,7 +2,7 @@
      🌊 HEADER — Animated waving gradient banner
      ═══════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Steven%20Tanardi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20code%20and%20AI&descAlignY=51&descSize=18&descAlign=50" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Steven%20Tanardi&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20x%20AI%20Engineer&descAlignY=56&descSize=20&descAlign=50" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
@@ -10,7 +10,7 @@
      ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%7C+AI+Engineer;Master's+Student+%40+NQU+Taiwan;RAG+%26+LLM+Orchestration+Enthusiast;Building+Adagio+%E2%80%A2+Kinyan+%E2%80%A2+JobFair" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=620&lines=Building+intelligent+systems+with+AI;Master's+Student+%40+NQU+Taiwan;RAG+%26+LLM+Orchestration+Specialist;Crafting+Adagio+%E2%80%A2+Kinyan+%E2%80%A2+JobFair" alt="Typing SVG" />
   </a>
 </p>
 
@@ -246,5 +246,5 @@ export const developerProfile = {
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
