@@ -176,6 +176,18 @@ export const developerProfile = {
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
+     🌆 3D CONTRIBUTION SKYLINE
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌆 3D Contribution Skyline</h2>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Skyline" width="100%" />
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
      🐍 CONTRIBUTION SNAKE
      ═══════════════════════════════════════════════════════════════════════════ -->
 
