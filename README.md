@@ -1,89 +1,167 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🌊 HEADER — Animated waving gradient banner
+     ═══════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,4&height=250&section=header&text=Steven%20Tanardi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Steven%20Tanardi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Building%20the%20future%20with%20code%20%26%20AI&descAlignY=54&descSize=18&descAlign=50" alt="Header" width="100%" />
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ⌨️ TYPING SVG — Animated role descriptions
+     ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Master's+Student+%40+NQU+Taiwan;RAG+%26+LLM+Orchestration+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%7C+AI+Engineer;Master's+Student+%40+NQU+Taiwan+%F0%9F%87%B9%F0%9F%87%BC;RAG+%26+LLM+Orchestration+Enthusiast+%F0%9F%A4%96;Building+Adagio+%E2%80%A2+Kinyan+%E2%80%A2+JobFair" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🔗 SOCIAL BADGES — Contact & presence
+     ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://linkedin.com/in/steventanardi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="mailto:stevntbankk77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=steventanardi&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/steventanardi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=steventanardi&style=for-the-badge&color=58a6ff&label=VISITORS" alt="Profile Views" />
 </p>
 
 <br />
 
-<table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none;">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        Hi there! I'm a Master's Student at National Quemoy University in Taiwan, originally from Indonesia. I'm deeply passionate about bridging the gap between Artificial Intelligence and elegant Web Applications.
-      </p>
-      <ul>
-        <li>🎵 <b>Current Projects:</b> <strong>Adagio</strong>, <strong>Kinyan</strong>, and <strong>JobFair</strong> — spanning music, web platforms, and career tech.</li>
-        <li>🌱 <b>Learning:</b> Advanced LLM orchestration, scalable Next.js architectures, and vector databases.</li>
-        <li>💬 <b>Ask me about:</b> Next.js, RAG implementation, and UI/UX design.</li>
-        <li>🌏 <b>Background:</b> Indonesian student at National Quemoy University, Taiwan.</li>
-      </ul>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     👨‍💻 ABOUT ME — Terminal / Neofetch style
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />&nbsp;
+  About Me
+  &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+</h2>
+
+```js
+// steven.config.js
+
+const steven = {
+    pronouns: "he" | "him",
+    location: "Kinmen, Taiwan 🇹🇼",
+    origin: "Indonesia 🇮🇩",
+    education: {
+        degree: "Master's in Computer Science",
+        university: "National Quemoy University (NQU)",
+    },
+    currentFocus: [
+        "Advanced LLM Orchestration & RAG Pipelines",
+        "Scalable Next.js Architectures",
+        "Vector Database Integration",
+    ],
+    activeProjects: {
+        "🎵 Adagio": "AI-powered music platform",
+        "🌐 Kinyan": "Full-stack web ecosystem",
+        "💼 JobFair": "Career tech platform",
+    },
+    askMeAbout: [
+        "Next.js", "RAG Implementation",
+        "UI/UX Design", "Full-Stack Architecture",
+    ],
+    funFact: "I bridge the gap between AI and elegant web applications ✨",
+};
+```
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🛠️ TECH STACK — Organized by category with skill icons
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>💬 Languages</b></td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,js,python,java&perline=10" alt="Languages" />
+      </a>
     </td>
-    <td width="45%" valign="top" style="border: none;">
-      <h3 align="center">🚀 Tech Arsenal</h3>
-      <div align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,js,python,java&perline=4" alt="Languages" />
-        </a>
-        <br><br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&perline=4" alt="Frameworks" />
-        </a>
-        <br><br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&perline=4" alt="Databases" />
-        </a>
-        <br><br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git&perline=4" alt="Tools" />
-        </a>
-      </div>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🧩 Frontend</b></td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=10" alt="Frontend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>⚙️ Backend</b></td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&perline=10" alt="Backend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>🗄️ Data</b></td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&perline=10" alt="Databases" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>☁️ DevOps</b></td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,linux&perline=10" alt="DevOps" />
+      </a>
     </td>
   </tr>
 </table>
 
-<br />
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=steventanardi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
 </div>
 
 <br />
 
 ---
 
-<h3 align="center">🏗️ Featured Projects</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🏆 GITHUB TROPHIES
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=steventanardi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🏗️ FEATURED PROJECTS — Card-based showcase
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏗️ Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/Steventanardi/Adagio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=Adagio&theme=tokyonight&hide_border=true" alt="Adagio" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=Adagio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Adagio" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/Steventanardi/Kinyan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=Kinyan&theme=tokyonight&hide_border=true" alt="Kinyan" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=Kinyan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Kinyan" />
   </a>
 </div>
+
 <div align="center">
   <a href="https://github.com/Steventanardi/JobFair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=JobFair&theme=tokyonight&hide_border=true" alt="JobFair" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=steventanardi&repo=JobFair&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="JobFair" />
   </a>
 </div>
 
@@ -91,41 +169,73 @@
 
 ---
 
-<h3 align="center">📊 GitHub Activity</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     📊 GITHUB STATS — Stats, streak, and languages
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=steventanardi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steventanardi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventanardi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=steventanardi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&ring_color=58a6ff" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steventanardi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steventanardi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventanardi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" width="42%" />
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     📈 ACTIVITY GRAPH
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steventanardi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="98%" />
 </div>
 
 <br />
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🐍 CONTRIBUTION SNAKE
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 <br />
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     💡 RANDOM DEV QUOTE
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">💡 Dev Quote of the Day</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,4&height=100&section=footer" alt="Footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🌊 FOOTER — Matching waving gradient
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" alt="Footer" width="100%" />
 </div>
