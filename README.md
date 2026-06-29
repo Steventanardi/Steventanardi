@@ -42,18 +42,23 @@
   &nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
 </h2>
 
-```js
-// steven.config.js
+<p align="center">
+  <em>Passionate <b>Full-Stack Developer</b> and <b>AI Engineer</b> focused on bridging the gap between intelligent LLM-powered systems and elegant web applications. Always eager to build scalable architectures and craft exceptional user experiences.</em>
+</p>
 
-const steven = {
-    pronouns: "he" | "him",
+```typescript
+// steven.profile.ts
+
+export const developerProfile = {
+    name: "Steven Tanardi",
+    pronouns: ["he", "him"],
     location: "Kinmen, Taiwan 🇹🇼",
     origin: "Indonesia 🇮🇩",
     education: {
         degree: "Master's in Computer Science",
         university: "National Quemoy University (NQU)",
     },
-    currentFocus: [
+    techFocus: [
         "Advanced LLM Orchestration & RAG Pipelines",
         "Scalable Next.js Architectures",
         "Vector Database Integration",
@@ -63,11 +68,7 @@ const steven = {
         "🌐 Kinyan": "Full-stack web ecosystem",
         "💼 JobFair": "Career tech platform",
     },
-    askMeAbout: [
-        "Next.js", "RAG Implementation",
-        "UI/UX Design", "Full-Stack Architecture",
-    ],
-    funFact: "I bridge the gap between AI and elegant web applications ✨",
+    contact: "stevntbankk77@gmail.com",
 };
 ```
 
@@ -131,20 +132,6 @@ const steven = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🏆 GITHUB TROPHIES
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=steventanardi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br />
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
      🏗️ FEATURED PROJECTS — Card-based showcase
      ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -170,7 +157,7 @@ const steven = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     📊 GITHUB STATS — Stats, streak, and languages
+     📊 GITHUB STATS & ACTIVITY
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -183,22 +170,10 @@ const steven = {
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventanardi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventanardi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" width="45%" />
 </div>
 
 <br />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     📈 ACTIVITY GRAPH
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steventanardi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="98%" />
-</div>
-
-<br />
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      🐍 CONTRIBUTION SNAKE
@@ -210,8 +185,22 @@ const steven = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/steventanardi/steventanardi/output/github-contribution-grid-snake.svg" width="90%">
   </picture>
+</div>
+
+<br />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🏆 GITHUB TROPHIES (Moved to bottom to reduce clutter)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=steventanardi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -230,7 +219,15 @@ const steven = {
 
 <br />
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🤝 LETS CONNECT
+     ═══════════════════════════════════════════════════════════════════════════ -->
+<h3 align="center">Let's build something awesome together! 🚀</h3>
+<p align="center">
+  <a href="mailto:stevntbankk77@gmail.com">
+    <img src="https://img.shields.io/badge/Drop_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      🌊 FOOTER — Matching waving gradient
