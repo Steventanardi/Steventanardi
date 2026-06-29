@@ -2,7 +2,7 @@
      🌊 HEADER — Animated waving gradient banner
      ═══════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,4&height=220&section=header&text=Steven%20Tanardi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Building%20the%20future%20with%20code%20%26%20AI&descAlignY=54&descSize=18&descAlign=50" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Steven%20Tanardi&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20code%20and%20AI&descAlignY=51&descSize=18&descAlign=50" alt="Header" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
@@ -246,5 +246,5 @@ export const developerProfile = {
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,4&height=120&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" alt="Footer" width="100%" />
 </div>
